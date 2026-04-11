@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=200&section=header&text=Gourav%20Kashiv&fontSize=90&theme=dark&fontColor=64ffda" />
+  <img src="github_profile_banner_abstract_png_1775892984447.png" alt="Profile Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gourav</h1>
+<h1 align="center">Hi 👋, I'm Gourav Kashiv</h1>
 <h3 align="center">Full-Stack Engineer | MERN Specialist | DevOps Enthusiast</h3>
 
 <p align="center">
