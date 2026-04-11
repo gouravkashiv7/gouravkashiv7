@@ -51,15 +51,15 @@ I architect and ship modern web applications end-to-end. My core stack is **MERN
 
 ### 📈 GitHub Ecosystem
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gouravkashiv7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&text_color=64ffda&icon_color=64ffda&title_color=64ffda" alt="Gourav's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouravkashiv7&theme=tokyonight" alt="Gourav's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravkashiv7&layout=compact&theme=tokyonight&hide_border=true&text_color=64ffda&icon_color=64ffda&title_color=64ffda" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouravkashiv7&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravkashiv7&theme=tokyonight&hide_border=true&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakNum=64ffda" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gouravkashiv7&theme=tokyonight&hide_border=true&stroke=64ffda&ring=64ffda&fire=64ffda" alt="GitHub Streak" />
 </p>
 
 ---
