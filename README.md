@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gouravkashiv.com" target="_blank" rel="noopener noreferrer">
-    <img src="profile_banner.jpeg" alt="Gourav Kashiv | Full-Stack Engineer | MERN Specialist | DevOps Enthusiast" width="100%" />
+    <img src="profile_banner.png" alt="Gourav Kashiv | Full-Stack Engineer | MERN Specialist | DevOps Enthusiast" width="100%" />
   </a>
 </p>
 
