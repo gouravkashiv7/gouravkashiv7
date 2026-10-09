@@ -1,88 +1,108 @@
 <p align="center">
   <a href="https://gouravkashiv.com" target="_blank" rel="noopener noreferrer">
-    <img src="profile_banner.png" alt="Gourav Kashiv | Full-Stack Engineer | MERN Specialist | DevOps Enthusiast" width="100%" />
+    <img src="profile_banner.png" alt="Gourav Kashiv | Full-Stack Engineer | Cloud, DevOps & AI-Enabled Products" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://gouravkashiv.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-gouravkashiv.com-0f172a?style=flat-square&logo=google-chrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
   <a href="https://www.gouravkashiv.com/resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-0a192f?style=for-the-badge&logo=googledocs&logoColor=64ffda" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-PDF-0f172a?style=flat-square&logo=adobeacrobatreader&logoColor=38bdf8" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/gouravkashiv7/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/KashivGourav" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-0a192f?style=for-the-badge&logo=x&logoColor=64ffda" alt="X" />
+    <img src="https://img.shields.io/badge/LinkedIn-in%2Fgouravkashiv7-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
   <a href="mailto:gouravkashiv@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=zoho&logoColor=64ffda" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-gouravkashiv%40zohomail.in-0f172a?style=flat-square&logo=mail.ru&logoColor=38bdf8" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Professional Summary
-I architect and ship modern web applications end-to-end. My core stack is **MERN** (MongoDB, Express, React, Node.js), and I own the entire deployment pipeline—**CI/CD**, containerization with **Docker**, and **AWS EC2** infrastructure.
+### Engineering Profile
 
-- 🔭 **Current Focus**: Rapid prototyping to high-performance, production-ready builds.
-- 🌱 **Continuous Learning**: Advanced LLMs, Generative AI, and Scalable Cloud Architectures.
-- 🎓 **Education**:
-  - **M.Tech in CSE** — Panjab University *(Graduated with Distinction, CGPA: 9.58/10)*
-  - **B.E. in CSE** — Chitkara University
-- 🏆 **Achievements & Honors**:
-  - Quarter-finalist in **Smart India Hackathon** *(IoT-based agricultural monitoring system)*
-  - Runners-up in **Octahacks Hackathon**
-  - Semi-finalist in **IICDC**
+I am a **Full-Stack Engineer** specializing in scalable cloud applications, infrastructure automation, and AI-enabled product engineering. My work focuses on taking complex product requirements from initial architecture and frontend design through backend APIs, database schemas, containerization, and production deployment on AWS.
+
+- **Product Ownership:** Architecting and maintaining full-stack systems with end-to-end responsibility for reliability, security, and performance.
+- **Production Workflows:** Migrating enterprise applications to modern build tooling, integrating OTA synchronization via Edge Functions, and containerizing distributed services.
+- **Applied AI Research:** Investigating LLM architectures, RAG pipelines, and generative video systems (published at IICTDS-2025).
 
 ---
 
-### 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,aws,docker,linux,git,github,vscode,postman,figma" alt="Tech Stack Icons" />
-</p>
+### Verified Engineering Milestones
 
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Framer Motion
-- **Backend**: Node.js, Express, REST APIs, Serverless Functions
-- **Databases**: MongoDB, PostgreSQL, Supabase
-- **DevOps & Cloud**: AWS (EC2, S3), Docker, CI/CD Pipelines, Nginx, Linux
-- **AI & Research**: Large Language Models, Generative AI *(Research Published)*
+| System / Project | Architectural Focus | Verifiable Impact |
+| :--- | :--- | :--- |
+| **Enterprise ERP Migration** | Tooling & Build Pipeline | **6× build & load optimization** (cut initial load time from 30s to 5s via Webpack → Vite + pnpm migration) |
+| **Hospitality Ops Manager** | Serverless Sync & OTA Integration | **Real-time calendar & reservation sync** across OTAs (MMT, Goibibo) using Supabase Edge Functions & iCal parsing |
+| **Generative Video Benchmark** | AI Performance Evaluation | **Presented peer-reviewed research** at *IICTDS-2025* (NMIMS Chandigarh) evaluating text-to-video generative models |
+| **Institutional Campus ERP** | AWS Cloud Infrastructure | **High-availability deployment** on AWS EC2 & Route 53 with SSL termination and multi-role administrative access |
 
 ---
 
-### 🚀 Featured Projects
-- 🦅 **[Kasauli Coder](https://www.kasaulicoder.com/)** – Digital agency ecosystem & tech community platform featuring high-performance SaaS development, automated content workflows, and hackathon learning tools.
-- 🏫 **[St. Bede's ERP System](https://stbedes.campusevo.com/)** – Enterprise institutional management platform engineered for St. Bede's College with centralized records and course workflows deployed on AWS.
-- 🏡 **[The Retreat Cottage](https://github.com/gouravkashiv7/the-retreat-cottage)** & **[Operations Manager](https://the-retreat-operations-manager.vercel.app/)** ([GitHub](https://github.com/gouravkashiv7/the-retreat-operations-manager)) – Full-stack hospitality booking platform with real-time availability tracking and multi-property ops manager.
-- 🌍 **[GoGlobe](https://go-globe-sepia.vercel.app/)** ([GitHub](https://github.com/gouravkashiv7/goGlobe)) – Interactive travel tracking web application with world map visualization built with React & Context API.
-- 🎬 **[StarFlicks](https://star-flicks-one.vercel.app/)** ([GitHub](https://github.com/gouravkashiv7/StarFlicks)) – Modern movie discovery platform with instant search, ratings, and responsive UI.
+### Selected Production Projects
+
+#### 1. [The Retreat Cottage](https://the-retreat-cottage.vercel.app/) + [Operations Manager](https://the-retreat-operations-manager.vercel.app/)
+> **Role:** Full-Stack Architect & DevOps Engineer • **Stack:** Next.js 15, React 19, Supabase, Edge Functions, React Query, Styled Components
+- **Guest Portal:** Real-time accommodation booking, date blackout handling, automated booking receipt generation, and responsive customer interface.
+- **Operations Manager:** Comprehensive back-office dashboard managing room inventory, live OTA booking sync (MMT/Goibibo via iCal), digital dining orders, and automated billing.
+- **Repositories:** [Public Booking App](https://github.com/gouravkashiv7/the-retreat-cottage) • [Operations Manager](https://github.com/gouravkashiv7/the-retreat-operations-manager)
+
+#### 2. [St. Bede's ERP System](https://stbedes.campusevo.com/)
+> **Role:** Full-Stack & Cloud Deployment Engineer • **Stack:** React, Node.js, Express, MongoDB, AWS EC2, S3, Route 53
+- **Institutional Management:** Enterprise campus management system handling centralized student/faculty records, dynamic course catalogs, and administrative workflows.
+- **Modules Built:** Automated Exam Generator & Question Bank module, GPS/Google Maps transport fleet tracking, and role-based access control across a 250+ file codebase.
+
+#### 3. [KasauliCoder](https://www.kasaulicoder.com/)
+> **Role:** Lead Engineer • **Stack:** Next.js, React, Tailwind CSS, Server Actions, Framer Motion
+- **Digital Platform:** Technical community platform and SaaS agency ecosystem featuring structured learning paths, hackathon management systems, and high-performance developer content workflows.
+
+#### 4. [GoGlobe](https://go-globe-sepia.vercel.app/)
+> **Role:** Frontend Engineer • **Stack:** React, Vite, React Router, Context API, Leaflet Maps
+- **Interactive Tracking:** Map-driven travel journal allowing users to record geographical notes, pinpoint visited cities on interactive coordinates, and manage travel history.
+- **Repository:** [github.com/gouravkashiv7/goGlobe](https://github.com/gouravkashiv7/goGlobe)
+
+#### 5. [StarFlicks](https://star-flicks-one.vercel.app/)
+> **Role:** Frontend Engineer • **Stack:** React, OMDb API, Custom Hooks, Modern CSS
+- **Media Discovery Engine:** Fast movie discovery platform with asynchronous debounce search, user rating persistence, and keyboard-first navigation.
+- **Repository:** [github.com/gouravkashiv7/StarFlicks](https://github.com/gouravkashiv7/StarFlicks)
 
 ---
 
-### 📈 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouravkashiv7&theme=tokyonight" alt="Gourav's GitHub Activity" />
-</p>
+### Technical Capabilities
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouravkashiv7&theme=tokyonight" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouravkashiv7&theme=tokyonight" alt="Top Languages by Repo" />
-</p>
+```
+┌─────────────────────────┬────────────────────────────────────────────────────────┐
+│ Domain                  │ Technologies & Practices                               │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Frontend Engineering    │ React 19, Next.js (App Router), TypeScript, Tailwind,  │
+│                         │ Framer Motion, Responsive Architecture, WCAG 2.2 AA    │
+│ Backend & APIs          │ Node.js, Express, RESTful APIs, Supabase Edge Funcs,   │
+│                         │ Server Actions, Middleware, Webhooks                   │
+│ Databases & Storage     │ MongoDB, PostgreSQL, Supabase, Data Normalization, RLS  │
+│ Cloud & DevOps          │ AWS (EC2, S3, Route 53, Lambda), Docker, CI/CD, Nginx,  │
+│                         │ Linux Administration, Vite/pnpm Tooling Migrations     │
+│ AI & Systems            │ LLM Integration, RAG Architectures, Model Evaluation   │
+└─────────────────────────┴────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gouravkashiv7&theme=tokyonight&hide_border=true&stroke=64ffda&ring=64ffda&fire=64ffda" alt="GitHub Streak" />
-</p>
+---
+
+### Education & Honors
+
+- **M.Tech in Computer Science & Engineering** — Panjab University *(2023 – 2025)*
+  - Research: *Performance Comparison of Text-to-Video Generative Models*, presented at IICTDS-2025.
+- **B.E. in Computer Science & Engineering** — Chitkara University *(2018 – 2022)*
+  - Core Focus: Data Structures, Distributed Computing, Software Engineering Architecture.
+- **Awards & Competitions:**
+  - Quarterfinalist — **Smart India Hackathon (SIH)** *(IoT-based agricultural monitoring system)*
+  - Runners-up — **Octahacks Hackathon**
+  - Semifinalist — **India Innovation Challenge Design Contest (IICDC)**
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=64ffda" alt="Programming Inspiration" />
-</p>
-
-<p align="center">
-  <a href="https://gouravkashiv.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda" alt="Visit My Portfolio" />
-  </a>
+  <sub>Let's build reliable, performant systems. Reach out via <a href="mailto:gouravkashiv@zohomail.in">gouravkashiv@zohomail.in</a> or connect on <a href="https://www.linkedin.com/in/gouravkashiv7/">LinkedIn</a>.</sub>
 </p>
